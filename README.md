@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Eu sou o Andres Bernardo, estou começando a estudar programação e atualmente estou aprendendo HTML, CSS, JavaScript etc.
+Desejo me aprofundar na criação de IAs e quem sabe posteriormente aprender sobre programação de jogos.
 <!--
 **Andres-Bernardo/Andres-Bernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
